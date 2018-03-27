@@ -1,3 +1,5 @@
-lion  yellow
-tiger  brown
-whale  blue
+lion
+tiger
+whale
+snail
+fish

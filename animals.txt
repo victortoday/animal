@@ -1,5 +1,5 @@
-lion
-tiger
+lion  brown
+tiger  yellow
 whale
 snail
 spider
